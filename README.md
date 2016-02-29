@@ -8,4 +8,4 @@ Unity5 was used to develop it. Drag and drop inventory like system was created t
 
 ## ScreenShot
 
-<img src="/store1.png" align="center" />
+<img src="store1.PNG" align="center" />
